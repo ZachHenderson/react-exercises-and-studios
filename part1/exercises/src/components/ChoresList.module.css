@@ -1,7 +1,11 @@
 .choresText {
-   color: black;
+   color: green;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-style: italic;
+
 }
 
 .choresHeading {
    color: black;
+   text-decoration: underilne;
 }
