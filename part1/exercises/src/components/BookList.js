@@ -1,8 +1,8 @@
 export default function BookList() {
    let pageTitle = "New Releases";
-   let book1 = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681921623i/62919356.jpg";
-   let book2 = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667593334i/61755286.jpg";
-   let book3 = "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668357819i/62039193.jpg";
+   let book1 = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687463048l/90202302._SY75_.jpg";
+   let book2 = "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667593334l/61755286._SY475_.jpg";
+   let book3 = "https://i.gr-assets.com/imahttps://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677175478l/116536542._SY75_.jpgges/S/compressed.photo.goodreads.com/books/1668357819l/62039193.jpg";
 
    return (
       <div>

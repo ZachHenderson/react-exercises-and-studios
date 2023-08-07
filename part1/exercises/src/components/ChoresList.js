@@ -1,3 +1,12 @@
 export default function ChoresList () {
-   return <p>No content is here!</p>;
+   return(
+      <div>
+         <header>Chores List</header>
+         <ul>
+            <li>Dishes</li>
+            <li>Vacuum</li>
+            <li>Nap</li>
+         </ul>
+      </div>
+   );
 }
