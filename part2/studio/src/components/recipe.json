@@ -1,17 +1,18 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Chicken Alfredo",
+     "author": "Lena Abraham",
+     "description": "This one-pot dinner comes together in 30 minutes, making it a perfect easy meal to whip up for any occasion.",
+     "website": "https://www.delish.com/cooking/recipe-ideas/a53695/one-pot-chicken-alfredo-recipe/",
+     "recipeImage": "https://hips.hearstapps.com/hmg-prod/images/delish-221130-perfect-chicken-alfredo-0689-eb-1670449996.jpg?crop=1.00xw:0.737xh;0,0.134xh&resize=768:*",
+     "authorImage": "https://hips.hearstapps.com/rover/profile_photos/846121db-9644-42e0-a4fd-cf5d105bfdf9_1576786748.file?fill=1:1&resize=120:*",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
+       "boneless skinless chicken breast",
+       "whole milk",
+       "chicken broth",
+       "fettuccine",
        "heavy cream",
-       "milk"
+       "grated Parmesan"
      ]
    }
  ]
